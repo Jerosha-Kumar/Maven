@@ -2,7 +2,7 @@ trigger:
 - main
 
 pool:
-  name: agentdemo
+  name: agentdemo1
   
 
 steps:
